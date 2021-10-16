@@ -5,3 +5,4 @@ These nifty scripts will install a working Arch Linux installation onto a USB wi
 Forked from https://github.com/naelstrof/auto-usb-arch-scripts
 
 Files are customised for personal use
+Run it every time you have to install Arch on your PC
